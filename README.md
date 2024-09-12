@@ -12,5 +12,5 @@ Simular a situação em Java.
 
 <br>
 <div align = "center">
-<img width = "60%" src = Doodles.png />
+<img width = "60%" src = Doodle.png />
 </div>
